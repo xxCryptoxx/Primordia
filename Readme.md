@@ -4,28 +4,27 @@
 <p>Players need to work, get paid, get food, get shelter, and ideally try and leave a legacy.</p>
 
 ## Whats to offer
-<ol>Start a company, start a neighborhood event, start a city</ol>
-<ol>Rob companies, take over neighborhoods, take over cities</ol>
-<ol>Protect companies, protect neighborhoods, protect cities</ol>
-<ol>Get a job</ol>
-<ol>Get weapons</ol>
-<ol>Rent or buy shelter</ol>
-<ol>Rent or buy vehicles</ol>
-<ol>Attack or defend a player<ol>
+• Start a company, start a neighborhood event, start a city
+• Rob companies, take over neighborhoods, take over cities
+• Protect companies, protect neighborhoods, protect cities
+• Get a job
+• Get weapons
+• Rent or buy shelter
+• Rent or buy vehicles
+• Attack or defend a player
 
-### Player stats
+## Player stats
 <p>Various choices players can select are based on the player stats.</p>
-<li>Energy</li>
-<li>Sanity</li>
-<li>Morality</li>
-<li>Confidence</li>
+Energy
+Sanity
+Morality
+Confidence
 
 ## Player interactions
 <p>When players interact with other players, based on stats, they can choose how to interact with the player.</p>
-<li>Chat (Message)</li>
-<li>Attack/Assasinate/Defend</li>
-<li>Steal/Take</li>
-<li>Invite (live with/event)</li>
-<li>Charity/Give</li>
-<li>Manipulate [linked to confidence stats]</li>
-
+• Chat (Message)
+• Attack/Assasinate/Defend
+• Steal/Take
+• Invite (live with/event)
+• Charity/Give
+• Manipulate [linked to confidence stats]
